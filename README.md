@@ -1,6 +1,6 @@
-* Demo README File
+# Demo README File
 
-** Jeff Maxwell (Put your name instead of mine)
+## Jeff Maxwell (Put your name instead of mine)
 
 Bulleted List
 - Item 1
