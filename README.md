@@ -16,5 +16,5 @@ Link To Website:
 [Oklahoma City University](https://okcu.edu)
 
 Load Image:
-![Jeff Maxwell]([https](https://jeffmaxwell.com/assets/images/profile-lg.jpg) "Jeff Maxwell")
+![Jeff Maxwell](https://jeffmaxwell.com/assets/images/profile-lg.jpg) "Jeff Maxwell")
 
